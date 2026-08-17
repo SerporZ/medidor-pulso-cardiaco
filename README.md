@@ -41,6 +41,11 @@ amplificación y luego procesada por el ESP32 Mini.
 Después, los datos pueden ser enviados mediante el protocolo MQTT hacia
 un broker Mosquitto para su supervisión o utilización en otra aplicación.
 
+## Evidencia del prototipo
+
+### Montaje en protoboard
+
+![Montaje del medidor de pulso en protoboard](media/prototipo-protoboard.jpeg)
 ## Trabajo en equipo
 
 Este proyecto fue desarrollado en equipo junto con Jorge Andrés Acosta
