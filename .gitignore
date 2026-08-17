@@ -1,0 +1,5 @@
+registro_mediciones.csv
+registro_pacientes.csv
+__pycache__/
+*.pyc
+.env
