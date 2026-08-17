@@ -76,6 +76,11 @@ imprimirse.
 
 Prototipo académico.
 
+## Aviso
+
+Este proyecto es un prototipo académico desarrollado con fines educativos.
+No es un dispositivo médico y no debe utilizarse para diagnóstico, tratamiento
+ni toma de decisiones clínicas.
 ## Mejoras futuras
 
 - Fabricar y probar la PCB diseñada.
