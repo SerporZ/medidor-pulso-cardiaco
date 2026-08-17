@@ -51,6 +51,10 @@ un broker Mosquitto para su supervisión o utilización en otra aplicación.
 Este proyecto fue desarrollado en equipo junto con Jorge Andrés Acosta
 y Santiago Duque.
 
+## Video de demostración
+
+El video del prototipo funcionando se agregará posteriormente en la sección
+[Releases](../../releases) del repositorio.
 ### Aportes individuales
 
 - **Anderson Lopera Rodríguez:** programación del ESP32 Mini, configuración
