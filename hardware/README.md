@@ -6,12 +6,18 @@ electrónico del medidor de pulso cardiaco.
 ## Archivos disponibles
 
 - `Proyecto final.step`: modelo 3D exportado desde Shapr3D.
+- `Proyecto final - 3D`: diseño tridimensional desarrollado en Fusion.
+- `Proyecto final - Esquema`: esquema electrónico desarrollado en Fusion.
+- `Proyecto final - PCB`: diseño de la tarjeta de circuito impreso desarrollado
+  en Fusion.
 
-## Archivos pendientes
+## Estado de los diseños
 
-- Diseño 3D desarrollado en Fusion.
-- Esquema electrónico.
-- Diseño de la tarjeta de circuito impreso (PCB).
+Los archivos de diseño 3D, esquema electrónico y PCB fueron desarrollados
+como parte del trabajo académico del equipo.
+
+El diseño de la PCB no fue fabricado físicamente y el modelo 3D no llegó a
+imprimirse. El circuito funcional se montó y probó en protoboard.
 
 ## Visualización del modelo
 
@@ -25,12 +31,6 @@ El archivo STEP puede abrirse con un programa compatible con modelos CAD.
 
 El montaje funcional del circuito se realizó en protoboard entre los
 integrantes del equipo.
-
-## Estado del hardware
-
-El circuito fue probado en protoboard. El diseño de la PCB y el modelo 3D
-se desarrollaron como propuestas de diseño, pero la PCB no fue fabricada
-físicamente y el modelo 3D no llegó a imprimirse.
 
 ## Formatos
 
