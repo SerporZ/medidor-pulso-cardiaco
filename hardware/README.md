@@ -3,12 +3,19 @@
 Esta carpeta contiene los archivos relacionados con el diseño físico y
 electrónico del medidor de pulso cardiaco.
 
-## Archivos previstos
+## Archivos disponibles
 
-- Modelo 3D desarrollado en Shapr3D.
+- `Proyecto final.step`: modelo 3D exportado desde Shapr3D.
+
+## Archivos pendientes
+
 - Diseño 3D desarrollado en Fusion.
 - Esquema electrónico.
 - Diseño de la tarjeta de circuito impreso (PCB).
+
+## Visualización del modelo
+
+El archivo STEP puede abrirse con un programa compatible con modelos CAD.
 
 ## Participación del equipo
 
