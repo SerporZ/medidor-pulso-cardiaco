@@ -53,8 +53,9 @@ y Santiago Duque.
 
 ## Video de demostración
 
-El video del prototipo funcionando se agregará posteriormente en la sección
-[Releases](../../releases) del repositorio.
+La demostración del prototipo está disponible en la
+[Release v1.0.0](../../releases/tag/v1.0.0).
+
 ### Aportes individuales
 
 - **Anderson Lopera Rodríguez:** programación del ESP32 Mini, configuración
